@@ -1,4 +1,9 @@
-# POE
-programación orientada a eventos
+# Smart Inventory
 
-// es complicado usar los comandos para git hay que entender que hacen antes de ejecutarlos porque puedes generar muchos problemas :( 
+Description:
+A real-time stock control system designed for stores and warehouses. Its event-driven architecture processes key actions in real time (such as ProductSold, CriticalStockReached, and BatchReceived), allowing for immediate inventory deduction, automatic generation of replenishment orders, and notification of reservations without interrupting or slowing down checkout operations.
+
+ Team Members:
+
+Alyson Pardo Cartagena
+Santiago Gómez Zúñiga
